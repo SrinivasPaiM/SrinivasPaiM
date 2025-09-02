@@ -20,9 +20,10 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrinivasPaiM&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SrinivasPaiM&show_icons=true&theme=radical&hide_rank=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrinivasPaiM&theme=radical" height="180" />
 </p>
+
 
 ---
 
