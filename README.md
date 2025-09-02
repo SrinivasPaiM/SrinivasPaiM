@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 Highlighted Projects
-- 🔹 [**AI File Sorter**](https://github.com/SrinivasPaiM) → An AI-powered system to categorize & organize files intelligently.  
+- 🔹 [**AI File Sorter**]([https://github.com/SrinivasPaiM](https://github.com/SrinivasPaiM/AI-File-Sorter-V2.git)) → An AI-powered system to categorize & organize files intelligently.  
 - 🔹 [**WikiScraper**](https://github.com/SrinivasPaiM) → Automated pipeline to scrape & store Wikipedia data daily.  
 
 ---
