@@ -1,4 +1,4 @@
-# SRINIVAS PAI M _
+# SRINIVAS PAI M 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=220&section=header&text=Srinivas%20Pai%20M&fontSize=75&animation=fadeIn&fontAlignY=40&fontColor=c0caf5&desc=AI%20SOLUTIONS%20%7C%20FULL%20STACK%20%7C%20IS%20STUDENT&descSize=22&descAlignY=62" />
@@ -24,7 +24,7 @@
 ### 📊 DATA ANALYTICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrinivasPaiM&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7" height="180" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrinivasPaiM&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=bb9af7&fire=ff00ea&currStreakLabel=7aa2f7" height="180" />
 </div>
 
