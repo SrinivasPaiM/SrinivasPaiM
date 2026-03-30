@@ -30,9 +30,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrinivasPaiM&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5" height="160" />
-</div>
+
 
 ---
 
