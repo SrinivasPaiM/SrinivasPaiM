@@ -1,7 +1,7 @@
 # SRINIVAS PAI M _
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=1a1b27&height=220&section=header&text=Srinivas%20Pai%20M&fontSize=75&animation=fadeIn&fontAlignY=40&fontColor=c0caf5&desc=AI%20SOLUTIONS%20%7C%20FULL%20STACK%20%7C%20IS%20STUDENT&descSize=22&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=220&section=header&text=Srinivas%20Pai%20M&fontSize=75&animation=fadeIn&fontAlignY=40&fontColor=c0caf5&desc=AI%20SOLUTIONS%20%7C%20FULL%20STACK%20%7C%20IS%20STUDENT&descSize=22&descAlignY=62" />
 </p>
 
 ---
@@ -83,5 +83,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=1a1b27&height=50&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=50&section=footer" />
 </p>
